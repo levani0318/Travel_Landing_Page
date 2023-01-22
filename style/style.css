@@ -255,7 +255,7 @@ body{
     object-fit: cover;
 }
 .card_five{
-    margin-top: -16px;
+    margin-top: 0px;
     grid-area: picture5;
     background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
@@ -264,8 +264,8 @@ body{
     object-fit: cover;
 }
 .card_six{
-    margin-top: -16px;
-    margin-left:-50px;
+    margin-top: 0px;
+    margin-left:0px;
     grid-area: picture6;
     background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
