@@ -223,7 +223,7 @@ body{
 }
 .card_first{
     grid-area: picture1;
-    /*background: linear-gradient(180deg, rgba(30, 30, 28, 0) 62%, rgba(20, 20, 18, 0.9) 100%), url(image.png);*/
+    background: linear-gradient(180deg, rgba(30, 30, 28, 0) 62%, rgba(20, 20, 18, 0.9) 100%), url(image.png);
     border-radius: 20px;
     width:100%;
     height:100%;
@@ -232,7 +232,7 @@ body{
 }
 .card_second{
     grid-area: picture2;
-    /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
+    background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
     width:100%;
     height:100%;
@@ -240,7 +240,7 @@ body{
 }
 .card_three{
     grid-area: picture3;
-    /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
+    background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
     width:100%;
     height:100%;
@@ -248,7 +248,7 @@ body{
 }
 .card_four{
     grid-area: picture4;
-    /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
+    background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
     width:100%;
     height:100%;
@@ -257,7 +257,7 @@ body{
 .card_five{
     margin-top: -16px;
     grid-area: picture5;
-    /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
+    background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
     width:100%;
     height:100%;
@@ -267,7 +267,7 @@ body{
     margin-top: -16px;
     margin-left:-50px;
     grid-area: picture6;
-    /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
+    background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);
     border-radius: 20px;
     width:100%;
     height:100%;
