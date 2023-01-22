@@ -21,7 +21,7 @@ body{
     gap:36px;
 }
 .navigation a{
-    margin-right: 34px;
+    margin-right: 36px;
     padding: 0 3px;
     font-style: normal;
     font-weight: 400;
@@ -210,13 +210,13 @@ body{
     top: 836px;
 }
 .card{
-    max-width:100%;
+    width:1170px;
     height:526px;
     margin-bottom: 150px;
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    gap:13px 30px;
+    gap:26px 30px;
     grid-template-areas: 
     "picture1 picture3 picture4 picture4"
     "picture2 picture3 picture5 picture6";
@@ -255,6 +255,7 @@ body{
     object-fit: cover;
 }
 .card_five{
+    margin-top: -16px;
     grid-area: picture5;
     /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
     border-radius: 20px;
@@ -263,6 +264,8 @@ body{
     object-fit: cover;
 }
 .card_six{
+    margin-top: -16px;
+    margin-left:-50px;
     grid-area: picture6;
     /*background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), url(image);*/
     border-radius: 20px;
@@ -276,7 +279,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap:275px;
+    gap:270px;
 }
 .footer_logo img{
     margin-bottom: 20px;
